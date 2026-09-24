@@ -1,0 +1,15 @@
+
+===================================
+        INFRASIGHT SYSTEM REPORT
+===================================
+
+Operating System : Linux
+Hostname         : driel
+Python Version   : 3.12.3
+Architecture     : x86_64
+Kernel           : 6.6.87.2-microsoft-standard-WSL2
+Current User     : driel_feby
+Home Directory   : /home/driel_feby
+Working Directory: /home/driel_feby/InfraSight
+
+===================================
