@@ -1,0 +1,1 @@
+print("InfraSight - Infrastructure Monitoring & Security Automation Platform")
